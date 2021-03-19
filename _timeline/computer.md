@@ -36,4 +36,5 @@ events:
   - digital-desk
   - mobile
   - apple-smartwatch
+  - freebsd
 ---
