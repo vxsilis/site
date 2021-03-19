@@ -29,4 +29,6 @@ slides:
   - messenger
   - notifications
   - google-now
+  - wordstar
+  - freebsd
 ---
