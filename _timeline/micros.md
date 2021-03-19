@@ -16,5 +16,6 @@ events:
   - c64-demoscene
   - minitel
   - raspberrypi
+  - wordstar
 ---
 
