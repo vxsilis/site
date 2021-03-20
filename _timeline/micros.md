@@ -15,5 +15,6 @@ events:
   - home-programming
   - c64-demoscene
   - minitel
+  - wordstar
   - raspberrypi
 ---
