@@ -13,6 +13,7 @@ events:
   - nls
   - pdp11-tty-unix
   - genesys
+  - wordstar
   - dynabook
   - smalltalk
   - children-alto
