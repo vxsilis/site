@@ -12,7 +12,6 @@ events:
   - apple2
   - visicalc
   - bbc-micro
-  - wordstar
   - home-programming
   - c64-demoscene
   - minitel
