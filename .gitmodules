@@ -16,3 +16,6 @@
 [submodule "images"]
 	path = images
 	url = https://github.com/vxsilis/images.git
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/vxsilis/extras.git
