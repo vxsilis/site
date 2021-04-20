@@ -11,5 +11,4 @@ tags:
   - IBM
   - WordStar
 ---
-
 {% include_relative bio-rubinstein.md %}
